@@ -322,6 +322,14 @@ body{
     font-size: 2rem;
     color: #fff;
   }
+  .movie .box-container .box p {
+    margin-top: -20px;
+    margin-left: 25%;
+    
+   
+    color: aquamarine;
+    font-family: 'Teko', sans-serif;
+  }
 
 
         
@@ -371,8 +379,14 @@ body{
     font-size: 2rem;
     color: #fff;
   }
-
-
+  .tvshows .box-container .box p {
+    margin-top: -20px;
+    margin-left: 25%;
+    font-size: medium;
+   
+    color: aquamarine;
+    font-family: 'Teko', sans-serif;
+  }
 
 
 
@@ -389,9 +403,10 @@ body{
 .sports h1{
     color: #40D3DC;
    text-align: center;
-    font-size: 45px;
+    
     
     font-family: 'Russo One', sans-serif;
+    font-size: 45px;
 }
   .sports .box-container {
     margin-left: 20px;
@@ -422,7 +437,8 @@ body{
   .sports .box-container .box p {
     margin-top: -20px;
     margin-left: 25%;
-    font-size: 2rem;
+    
+   
     color: aquamarine;
     font-family: 'Teko', sans-serif;
   }
